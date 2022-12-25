@@ -1,0 +1,12 @@
+song_link: ["https://open.spotify.com/track/4INLyMCuiTpNm9uxu5s1xM?si=d2428f76ad5a4b4e", "https://open.spotify.com/track/3wwNtvIyqEnaffoDBFfdSP?si=a85cda1c88424425", "https://open.spotify.com/track/1UkfDapiHMVp9RZzUkWSbY?si=a661dd0e598a48e7", "https://open.spotify.com/track/5092nU2wYQ0iawAxwQ2TUs?si=d162f53cd6ee447d"]
+min_wait_max_wait: [150, 200]
+program_sleep_delay: 5
+retry_bad_procces: false
+create_account: true
+client_thread: 1
+view_count: 10
+use_proxy: true
+use_discord_webhook: true
+discord_webhook_url: "https://discord.com/api/webhooks/986223836720664576/JMysXK2CiMkMPhlOfIw_0ATaKM4RL5PxH22ZP0GsByo_mUH0AKzwPN_LFyNJJ38oIWPV"
+proxy_protocol: "http"
+program_license: "wxGvhTsjIucdkgEkzkIaPYpGADACBahSRaCDycdXYDJDpEDoMy"
